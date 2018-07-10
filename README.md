@@ -1,8 +1,7 @@
 # first
 
-this is my git project.
+this is my git project.I plan to introduce same books about statistics, maths, computer, code, etc.
 
-this is my git project.
 
 ## python
 
